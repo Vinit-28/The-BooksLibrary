@@ -293,7 +293,7 @@ def home():
     result = {
         "Opening Greeting" : "Welcome to the-bookslibrary API",
         "Motive" : "This is to Manage a library",
-        "How to use" : "https://the-bookslibrary.herokuapp.com/README.md",
+        "How to use" : "https://github.com/Vinit-28/The-BooksLibrary#readme",
         "Ending Greeting" : "Have a good day !"
     }
     return jsonify(result)
